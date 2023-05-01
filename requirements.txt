@@ -1,8 +1,7 @@
-import ComputerVisionClient
+ComputerVisionClient
 OperationStatusCodes
 VisualFeatureTypes
 CognitiveServicesCredentials
-
 array
 os
 Image
